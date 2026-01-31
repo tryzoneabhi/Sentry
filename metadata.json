@@ -1,0 +1,8 @@
+{
+  "name": "Class 10 Board Hub",
+  "description": "A focused, minimalist study platform for Class 10 board preparation featuring curated content from top educators with AI-powered summaries and revision tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
